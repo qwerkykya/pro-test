@@ -1,8 +1,6 @@
 # pro-test
-<<<<<<< HEAD
 Nursultan
-
-=======
+git a
 
 here was boleey
->>>>>>> feat-2
+
